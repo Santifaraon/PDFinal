@@ -1,0 +1,26 @@
+.h1 {background-color:lightblue;text-align: center;text-decoration: underline;font-size: 3rem}
+.h2 {background-color:orange;text-align: left;text-decoration: underline;font-size: 1rem}
+.p1 {font-family: cursive; color:white}
+.p2 {font-family: fantasy; color:white}
+.imgw {width:20%;height: 20%; object-fit: cover;}
+.background {background-image:url("https://www.solofondos.com/wp-content/uploads/2015/11/Imagen-de-fondo-html.jpg");background-repeat: repeat;}
+
+
+header {background-color: white; text-align:  center;} @media (max-width;575px){}
+nav {background-color: red} @media (max-width;575px){}
+section  {background-color: blue; font-family: 'Comforter', cursive;
+font-family: 'M PLUS 2', sans-serif; color:white} @media (max-width;575px){}
+aside {background-color: tomato; font-family: 'Open Sans Condensed', sans-serif; color:white} @media (max-width;575px){}
+footer {background-color: black; font-family: cursive; color: white} @media (max-width;575px){}
+a:hover {background-color: red; font-family: fantasy; color: black} @media (max-width;575px){}
+a::before {font-family: cursive; color:white} @media (max-width;575px){}
+a:::after {background-color: blue; font-family: fantasy; color: white} @media (max-width;575px){}
+aside img:hover {height:100%; width:100%;} @media (max-width;575px){}
+section img:hover {height:100%; width:100%;} @media (max-width;575px){}
+header h1:hover {background-color: white;text-align: center; color: red} @media (max-width;575px){}
+section p:hover {background-color: blue; font-family: cursive; color:red} @media (max-width;575px){}
+aside p:hover {background-color: tomato; font-family: fantasy; color:red} @media (max-width;575px){}
+section {float;left; width: 50%;} @media (max-width;575px){}
+aside {float: left; width: 50%} @media (max-width;575px){}
+footer {float: right; width: 40%} @media (max-width;575px){}
+p {font-size: 1rem} @media (max-width;575px){}
